@@ -1,3 +1,7 @@
 # NN-Approximation
 
-* Neurons types: train with different types of neurons.
+Example task: how to approximate function with NN.
+
+
+
+# XII
